@@ -5,14 +5,14 @@ The university needs this game or tool to be easily accessible and intuitive eno
 
 ## Objectives (Include at least 3 of the following):
 
+- Customization & Personalization
+- Interactive Elements
+- Sound and Visual Effects
 - Progress Tracking & Levels
-- Challenges & Competitions
-- Rewards & Incentives
 - Quests & Missions
 - Interactive Feedback
-- Customization & Personalization
 - Multiplayer or Social Features
-- Mini-games and Interactive Elements
-- Adaptive Learning
-- Sound and Visual Effects
+- Mini-games
 - Time Trials and Speed Rounds
+- Challenges & Competitions
+- Rewards & Incentives
